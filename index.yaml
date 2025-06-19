@@ -1,5 +1,0 @@
-# This file is not needed anymore and will be removed soon.
-# It only still exists in this place to print an error message to users who still use the old repo URL.
-# For the actual index.yaml file, see https://github.com/1Password/connect-helm-charts/blob/gh-pages/index.yaml
-apiVersion: v1
-"The https://raw.githubusercontent.com/1password/connect-helm-charts/main URL is not supported anymore, please switch to https://1password.github.io/connect-helm-charts":
