@@ -37,7 +37,7 @@ entries:
       name: 1Password Secrets Integrations Team
     name: connect
     urls:
-    - https://github.com/1Password/connect-helm-charts/releases/download/connect-1.17.1/connect-1.17.1.tgz
+    - https://github.com/platform9/connect-helm-charts/releases/download/connect-1.17.1/connect-1.17.1.tgz
     version: 1.17.1
   secrets-injector:
   - apiVersion: v2
