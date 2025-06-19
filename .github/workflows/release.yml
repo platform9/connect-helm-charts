@@ -3,7 +3,7 @@ name: Release charts if needed
 on:
   push:
     branches:
-      - main
+      - fork
 
 jobs:
   release:
